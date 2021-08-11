@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey there! 👋
+
+I am Tejas (tay-jus), a self driven software engineer with multiple experiences and a deep passion for using technology to build great things.
+
+- 🔗[My Website](https://tej-sharma.github.io/info/)
 
 <!--
 **Tej-Sharma/tej-sharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
