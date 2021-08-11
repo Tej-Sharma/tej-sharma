@@ -1,6 +1,6 @@
-### Hey there! 👋
+## Hey there! 👋
 
-I am Tejas (tay-jus), a self driven software engineer with multiple experiences and a deep passion for using technology to build great things.
+<h5> I am Tejas (tay-jus), a self driven software engineer with multiple experiences and a deep passion for using technology to build great things. </h5>
 
 <p align='center'>
   
@@ -19,9 +19,6 @@ I am Tejas (tay-jus), a self driven software engineer with multiple experiences 
 </p>
 
 🔗[My Website](https://tej-sharma.github.io/info/)
-
-[![Tejas's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tej-sharma)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!--
 **Tej-Sharma/tej-sharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
