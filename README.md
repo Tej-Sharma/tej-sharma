@@ -1,9 +1,6 @@
 ## Hey there! 👋
 
 #### I am Tejas (tay-jus), a self driven software engineer with multiple experiences and a deep passion for using technology to build great things. Learn more @ [https://tej-sharma.github.io/info/](https://tej-sharma.github.io/info/)
-
-<br />
-
 <p align='center'>
   <a href="https://www.linkedin.com/in/tejas-sharma-software-engineer/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -21,7 +18,6 @@
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />        
   </a>&nbsp;&nbsp;
 </p>
-<br />
 <h4 align='center'>  I've worked with: </h4>
 <p align='center'>
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
