@@ -1,6 +1,9 @@
 ## Hey there! 👋
 
-#### I am Tejas (tay-jus), a self driven software engineer with multiple experiences and a deep passion for using technology to build great things. Learn more @ [https://tej-sharma.github.io/info/](https://tej-sharma.github.io/info/)
+#### I am Tejas (tay-jus), a self driven software engineer with multiple experiences and a deep passion for using technology to build great things.
+
+Check out my site @ [https://imtejassharma.me/](https://imtejassharma.me/)
+
 <p align='center'>
   <a href="https://www.linkedin.com/in/tejas-sharma-software-engineer/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
