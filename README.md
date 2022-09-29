@@ -1,6 +1,6 @@
 ## Hi! 👋
 
-#### I am Tejas (tay-jus), and I like building cool things with tech and teaching myself new things. I've been programming for a while and have worked at numerous different companies and an assortment of projects.
+#### I am Tejas (tay-jus), and I always like building cool things with tech while teaching myself new things. I've been programming for a while and have worked on an assortment of projects across different companies.
 
 Check out my site @ [https://imtejassharma.me/](https://imtejassharma.me/)
 
