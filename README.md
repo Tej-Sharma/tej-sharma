@@ -4,7 +4,7 @@
 
 I have experience on both the frontend and the backend. React + JavaScript + HTML/CSS on the frontend, and Python / Node.js / Java / SQL on the backend.
 
-Check out my site @ [https://imtejassharma.me/](https://imtejassharma.me/)
+Check out my site [https://imtejassharma.me/](https://imtejassharma.me/)
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/tejas-sharma-software-engineer/">
