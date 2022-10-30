@@ -2,7 +2,7 @@
 
 #### I am Tejas (tay-jus), and I always like building cool things with tech while teaching myself new things. I've been programming for a while and have worked on an assortment of projects across different companies.
 
-I have experience on both the frontend and the backend. React + JavaScript + HTML/CSS on the frontend, and Python / Node.js / Java / SQL on the backend.
+I have experience on both the frontend and the backend. React + JavaScript + HTML/CSS on the frontend, and Python / Node.js / Java / SQL on the backend. I've worked a lot with NoSQL databaes like MongoDB and Firebase as well as more traditional SQL solutions.
 
 Check out my site [https://imtejassharma.me/](https://imtejassharma.me/)
 
