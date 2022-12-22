@@ -7,7 +7,7 @@ I have experience on both the frontend and the backend. React + JavaScript + HTM
 Check out my site [https://imtejassharma.me/](https://imtejassharma.me/)
 
 <p align='center'>
-  <a href="https://www.linkedin.com/in/tejas-sharma-software-engineer/">
+  <a href="https://www.linkedin.com/in/itstejassharma/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://play.google.com/store/apps/dev?id=5709416098328895334">
