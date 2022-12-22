@@ -19,7 +19,7 @@ Check out my site [https://imtejassharma.me/](https://imtejassharma.me/)
 </p>
 
 #### GitHub Stats
-[![Tejas's GitHub stats](https://github-readme-stats.vercel.app/api?username=tej-sharma)](https://github.com/anuraghazra/github-readme-stats)
+[![Tejas's GitHub stats](https://github-readme-stats.vercel.app/api?username=tej-sharma&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Tej-Sharma/tej-sharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
