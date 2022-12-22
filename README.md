@@ -17,6 +17,10 @@ Check out my site [https://imtejassharma.me/](https://imtejassharma.me/)
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
   </a>&nbsp;&nbsp;
 </p>
+
+#### GitHub Stats
+[![Tejas's GitHub stats](https://github-readme-stats.vercel.app/api?username=tej-sharma)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Tej-Sharma/tej-sharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
