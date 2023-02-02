@@ -18,6 +18,8 @@ Check out my site [https://imtejassharma.me/](https://imtejassharma.me/)
   </a>&nbsp;&nbsp;
 </p>
 
+![image](https://user-images.githubusercontent.com/63019435/216227507-4d46b187-eb28-47e1-ac0a-6e4b5826a2da.png)
+
 <!--
 **Tej-Sharma/tej-sharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
