@@ -2,7 +2,7 @@
 
 We are a software engineering company that won't stop until we turn your idea into reality.
 
-We've worked on all types of projects from mobile apps to web apps to even custom Machine Learning models and smart contracts.
+We've worked on all types of projects from mobile apps to web apps. We have built the frontend and backend, and we've worked with GPT, custom ML models, and integrating them into the frontend.
 
 Contact us to book a call.
 
